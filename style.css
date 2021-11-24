@@ -1,0 +1,26 @@
+.box {
+  width: 1000px;
+  height: 1000px;
+  background-color: pink;
+}
+.boxTwo {
+  width: 10%;
+  height: 10%;
+  background-color: aqua;
+}
+h1 {
+  font-size: 2rem;
+}
+p {
+  font-size: 1em;
+}
+.rect {
+  width: 75vw;
+  height: 75vh;
+  background-color: violet;
+}
+.recttwo {
+  width: 50vw;
+  height: 50vh;
+  background-color: rosybrown;
+}
